@@ -130,3 +130,25 @@ font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans
   margin-left: 28rem;
   position: absolute;
 }
+.last p{
+  text-align: left;
+  margin-top: 2rem;
+}
+
+.last .p1{
+  position: absolute;
+margin-left: 18rem;
+}
+
+.last .p1{
+  position: absolute;
+margin-left: 18rem;
+}
+
+.last .p2{
+  margin-left: 35rem;
+}
+
+.last .p3{
+margin-top: 4rem;
+}
