@@ -14,7 +14,7 @@ function App() {
       <li><a href="#news">News</a></li>
       <li><a href="#contact">Contact</a></li>
       <li><a class="about" href="#about">About</a></li>
-      <input className='search' type='search' placeholder='search here'/>
+      <input className='search' type='search' placeholder='search here' required/>
     </ul>
 
     <div className='para'> 
