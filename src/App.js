@@ -40,8 +40,7 @@ function App() {
      </div>
      
      <div className='last'> 
-     <p className='p3'>
-      Delivery in <br/> all town less than 30 minutes </p>
+     <p className='p3'> Delivery in <br/> all town less than 30 minutes </p>
       <p className='p1'> Free delivery from $29</p>
       <p className='p2'> only fresh and home products </p>
      </div>
